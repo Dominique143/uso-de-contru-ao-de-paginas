@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Alessandra ferro">
+    <meta name="keyword" content="leclassic,pilates,aulas,atividades,bem estar">
+    <meta name="description" content="Aulas de pilates"><!--90 caracteres-->
+
+</head>
+<body bgcolor="#ffffff" link="#003a70 " vlink="#003a70  " alink="#003a70 ">
+   
+    <img src="img/banner.png" width="" alt="banner contendo a logo do LeClassic e  uma pessoa praticando pilates com roupa estilo maiô azul e puxando um elastico laranja alongando o braço direito em uma sala de pratica de pilates." />
+   
+   
+    <font color=#003a70 face=" Gabriola " size="3">
+        <center><b>
+            <a href="index.html"> HOME</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <a href="#pag-Benefícios"> BENEFÍCIOS</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<!-- mesmo arquivo-->
+            <!-- link completo para redes sociais-->
+            <a href="#pag-caracteristicas">CARACTERÍSTICAS</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <!-- azul= link ,roxo = visited vermelho=active-->
+            <a href="#pag-nossoestudio"> ESTÚDIO</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <a href="#"> AGENDAMENTOS</a>
+            </b>
+        </center>
+
+    </font>
+
+    <hr />
+
+    <font color=#c8b79d face= "Gabriola"  size=" 5">
+        <h1 align="center"> Agendamentos </h1>
+    </font>
+
+    <font color=#003a70 face=" Familjen Grotesk " size=" 4">
+        <!-- texto comentario-->
+        <p align="center"> Agende uma aula experimental agora mesmo.</p>
+
+
+FORMULARIO
+
+<form  name="" method="" action="">
+<label for="nome"> nome:</label><br>
+<input name="nome" id="nome" type="text" autofocus="" placeholder="nome completo"><br>
+</form>
+
+<form>
+<label for="email"> email:</label><br>
+<input type="email" nome="email" id="email" placeholder="email@email.com.br" ><br>
+</form>
+
+<form>
+<label for="senha"> senha</label><br>
+<input type="password" nome="senha" id="senha" placeholder="******************"><br>
+</form>
+
+<form>
+<label for="numero"> numero:</label><br>
+<input type="tel" nome="numero" id="numero" placeholder="(99)999999999"><br>
+</form>
+
+<!--size maxlength required autofocus -->
+<form>
+ <label for="data"> data</label>
+<input type="data " nome="data"  id="data" placeholder="00/00/0000"> 
+<label for="hora">hora</label> <input type="time" nome="hora" id="hora" placeholder="00:00" > 
+<label for="aula">aula</label> <input type="number" id="aula" nome="aula" min="1" max="10" step="1" placeholder="1">
+
+<label for="nivel">nivel</label>
+<select id="nivel" name="nivel" >
+    <option value="iniciante">iniciante</option>
+    <option value="basico">basico</option>
+    <option value="intermediario">intermediario</option>
+    <option value="avançado">avançado</option>
+</select></br>
+
+<fieldset>
+<legend> atividades</legend>
+<input type="checkbox" name="atividade" value="musculaçao"> <label for="musc"  >musculaçao</label>
+<input type="checkbox" name="atividade" value="pilates" > <label for="pilates"  >pilates</label>
+<input type="checkbox" name="atividade"value=yoga > <label for="yoga"  >yoga</label>
+</fieldset>
+
+<label for=" msg"> mensagem</label><br>
+<textarea id="msg"></textarea>
+
+</form>
+
+</form>
+<input type="checkbox" name="" id="">
+<input type="radio ">
+<select ></select>
+
+
+
+
+
+
+
+
+
+
+<p><input type="submit" name="agendar" value="agendar">
+   <input  type="reset" name="cancelar" value="cancelar">
+</p></form>
+            <hr/>
+<p>desenvolvido por<a href=""></href>tiago segato</a></p>
+   
+</body>
+</html>

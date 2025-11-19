@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Alessandra ferro">
+    <meta name="keyword" content="leclassic,pilates,aulas,atividades,bem estar">
+    <meta name="description" content="Aulas de pilates"><!--90 caracteres-->
+
+</head>
+
+<body bgcolor="#ffffff" link="#003a70 " vlink="#003a70  " alink="#003a70 ">
+    <img src="img/banner.png" width="" alt="banner contendo a logo do LeClassic e  uma pessoa praticando pilates com roupa estilo maiô azul e puxando um elastico laranja alongando o braço direito em uma sala de pratica de pilates." />
+    <font color=#003a70 face=" Gabriola " size="4">
+        <center><b>
+            <a href=""> HOME</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <a href="#pag-Benefícios"> BENEFÍCIOS</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<!-- mesmo arquivo-->
+            <!-- link completo para redes sociais-->
+            <a href="#pag-caracteristicas">CARACTERÍSTICAS</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <!-- azul= link ,roxo = visited vermelho=active-->
+            <a href="#pag-nossoestudio"> ESTÚDIO</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            <a href="agendamento.html" target="_blank"> AGENDAMENTOS</a>
+            </b>
+        </center>
+
+    </font>
+
+    <hr id="pag-home" />
+
+    <font color=#c8b79d face=" Gabriola " size=" 5">
+        <h1 align="center">Le Classic Pilates </h1>
+    </font>
+
+    <font color=#003a70 face=" Segoe UI Variable Small " size=" 4">
+        <!-- texto comentario-->
+        <p align="justfy">Nossa essência é fazer com que cada aluno se sinta único e especial, oferecendo um atendimento
+            personalizado para atender às suas necessidades específicas.</p>
+
+        <p align="justfy">No Le Classic Pilates, proporcionamos uma experiência de qualidade, promovendo bem-estar e
+            superando expectativas. Valorizamos cada pessoa que entra em nosso estúdio e nos dedicamos a ajudá-las a
+            alcançar seus objetivos de forma segura e eficaz, sempre com base no método Pilates Clássico.</p>
+
+        <p align="justfy">Descubra o poder transformador do Pilates Clássico, inspirado no método tradicional criado por
+            Joseph H. Pilates. Seguimos a técnica e metodologia originais dos exercícios e utilizamos equipamentos que
+            respeitam as especificações do método clássico, promovendo uma prática autêntica e completa.</p>
+        <p align="justfy"></p> "A contrologia desenvolve um corpo uniforme, corrige posturas erradas, restaura a
+        vitalidade física, vigora a mente e eleva o espírito."
+        — Joseph Pilates</p>
+
+</font>
+
+
+<hr id="pag-Benefícios"/>
+        <font color=#c8b79d face=" Gabriola " size=" 5">
+
+            <h2 align=""> Benefícios</h2>
+
+        </font>
+
+        <font color="#003a70 "  face = "Segoe UI Variable Small  "size="3">
+
+        <p align="justfy">Praticar Pilates Clássico no Le Classic proporcionará a você:</p>
+       
+        <ul><!--type =" circle/squere"-->
+
+            <li> Condicionamento físico e mental</li>
+            <li>Exercitar o corpo de forma global</li>
+            <li>Promover força, flexibilidade e equilíbrio</li>
+            <li>Corpo mais uniforme e com menos dores</li>
+
+   
+    </ul>
+ </font>
+    <hr id="pag-caracteristicas"/>
+<!--table-->
+<font color=#c8b79d face=" Gabriola " size=" 5">
+
+    <h2 align="justfy"> Características</h2>
+
+</font>
+
+ <font color=#003a70 face=" Gabriola " size="4">
+<p>Para oferecer esses benefícios, valorizamos as seguintes características:</p>
+
+<table border="0">
+    <tr>
+    <td><img src="img/caracteristica1.jpg" alt="" width="380" ></td>
+    <td><img src="img/caracteristica2.jpg" alt="" width="380" ></td>
+    <td><img src="img/caracteristica3.jpg" alt="" width="380" ></td>
+    <td><img src="img/caracteristica4.jpg" alt="" width="380" ></td>
+    
+</tr>
+</table>
+
+
+<table border="1">
+
+    <tr align="center">
+
+    <td>
+
+        <font color=#c8b79d face=" Gabriola " size=" 4">
+            
+        <h3>Atendimento individualizado e personalizado</h3>
+
+    </font>
+
+</td>
+
+    <td>
+        <font color=#c8b79d face=" Gabriola " size=" 4">
+
+        <h3>Ambiente clean, privativo e climatizado</h3>
+
+             </font>
+
+            </td>
+
+    <td>
+        <font color=#c8b79d face=" Gabriola " size=" 4">
+
+        <h3>Equipamentos de altíssima qualidade </h3>
+        </font>
+    </td>
+
+    <td>
+
+        <font color=#c8b79d face=" Gabriola " size=" 4">
+
+        <h3>Profissionais qualificados e dedicados</h3>
+
+             </font>
+
+    </td>
+</tr>
+</table>
+
+
+    <table border="1">
+        <tr align="center">
+            <font color=#c8b79d face=" Segoe UI Variable Small " size=" 4">
+        <td>
+            <p align="justfy">Cada aluno recebe atenção especial e uma orientação personalizada, 
+                adaptada às suas necessidades e objetivos, para garantir uma prática segura e eficaz.
+        </p >
+        </td>
+        <td>
+            <p align="justfy">Nosso ambiente é cuidadosamente projetado, com um espaço clean e climatizado,
+                 proporcionando conforto e bem-estar durante toda a prática.</td>
+        </p>
+        <td>
+            <p align="justfy">Utilizamos equipamentos que seguem as especificações originais do método Pilates Clássico,
+                 assegurando a qualidade e a eficácia dos exercícios.
+
+        </p>
+        </td>
+        <td><p align="justfy">Nossa equipe é formada por profissionais experientes e altamente capacitados, 
+            comprometidos em oferecer uma experiência de excelência.
+            </p>
+        </td>
+    </tr>
+    </table>
+</font>
+    <hr id="pag-nossoestudio"/>
+    <font color=#c8b79d face=" Gabriola " size=" 5">
+
+        <h2 align="justfy"> Nosso estudio</h2>
+    
+    </font>
+<table "0">
+    <tr >
+
+<td colspan=""><p align="justfy" >Nosso estúdio é um espaço lindo, clean, privativo e aconchegante, projetado para o bem-estar físico e mental de nossos alunos. Oferecemos um ambiente tranquilo e acolhedor, onde o foco está no cuidado e na atenção com cada aluno.</p>
+
+    <p align="justfy">Estamos localizados no Centro Clínico Cléo Octávio, no início da Asa Norte, em Brasília. O edifício possui fácil acesso e excelente estrutura, oferecendo um espaço exclusivo para o seu conforto e cuidado com o corpo e a mente.
+
+</p></td>
+
+<td rowspan="">
+
+    <video width="650" height="400" controls  loop muted poster="auto">
+        <source src="img/video.mp4" type="video/mp4">
+        
+       Your browser does not support the video tag.
+      </video>
+</td>
+
+    </tr>
+
+<tr >
+
+    <td>
+        <a href="https://www.instagram.com/leclassicpilates/" target="_blank">
+
+        <img src="img/logo-insta.svg" alt=""> leclassicpilates </a>
+    </tr>
+</td>
+  
+    <td>
+        <!--  //wa.me
+        <img src="img/logo-whats.svg " alt="" >  WhatsApp
+(61) 99611-5865
+</td>-->
+<td><a href=" mailto:contato@leclassicpilates.com.br ">
+    <img scr ="img/logo email.svg" alt= "logo imail">
+    
+    contato@leclassicpilates.com.br
+</a>
+</td>
+
+    </tr>
+
+</table>
+<hr/>
+<p>desenvolvido por<a href=""></href>tiago segato</a></p>
+</body>
+
+</html>
